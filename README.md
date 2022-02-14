@@ -1,16 +1,20 @@
-### Hi there 👋
+### Ola 👋, eu sou o Caio Souza.
 
-<!--
-**caiosouza15/caiosouza15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou Desenvolvedor Frontend. no momento atuo como estagiario em desenvolvimento web, desenvolvendo em stacks como angular, react, .net...
+- 🌱 Estou procurando cada vez mais me especializar para atuar no frontend. No momento estou estudando react.
 
-Here are some ideas to get you started:
+## Linguagens e Framewors
+- 💀 HTML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 CSS 🎨Bootstrap, Materialize, tailwind
+
+- 🧠 JavaScript
+🦾 React
+🦾 Angular
+
+## Contatos
+Então você se interessou? que tal tomamos um café? Jogar alguma coisa, dar um role de bike... Bom seja o que for você pode entrar em contato, tenho bastante coisas para compartilhar, projetos e sonhos, simbora?!
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581982125448&text=Ol%C3%A1%20Caio!)
+
+- Email: caiosouza.15@outlook.com
