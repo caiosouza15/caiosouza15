@@ -1,6 +1,6 @@
 ### Ola 👋, eu sou o Caio Souza.
 
-- 🔭 Sou Desenvolvedor Frontend. no momento atuo como estagiario em desenvolvimento web, desenvolvendo em stacks como angular, react, .net...
+- 🔭 Sou Desenvolvedor Frontend. no momento atuo como engenheiro de software web, desenvolvendo em stacks como react e typescript. 
 - 🌱 Estou procurando cada vez mais me especializar para atuar no frontend. No momento estou estudando react.
 
 ## Linguagens e Framewors
