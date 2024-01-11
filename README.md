@@ -8,9 +8,10 @@
 
 - 🤖 CSS 🎨Bootstrap, Materialize, tailwind
 
-- 🧠 JavaScript
+- 🧠 JavaScript e Typescript
 🦾 React
 🦾 Angular
+
 
 ## Contatos
 Então você se interessou? que tal tomamos um café? Jogar alguma coisa, dar um role de bike... Bom seja o que for você pode entrar em contato, tenho bastante coisas para compartilhar, projetos e sonhos, simbora?!
