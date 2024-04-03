@@ -6,11 +6,13 @@
 ## Linguagens e Framewors
 - 💀 HTML.
 
-- 🤖 CSS 🎨Bootstrap, Materialize, tailwind
+- 🤖 CSS 🎨Bootstrap, Materialize, tailwind, Styled Components
 
 - 🧠 JavaScript e Typescript
 🦾 React
 🦾 Angular
+🦾 Docker | GitHub | Node | Java |
+MySql | MongoDb | Mongoose | Express | Sequelize | NextJs | NestJs
 
 
 ## Contatos
