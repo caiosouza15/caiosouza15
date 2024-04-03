@@ -1,7 +1,9 @@
 ### Ola 👋, eu sou o Caio Souza.
 
-- 🔭 Sou Desenvolvedor Frontend. No momento atuo como engenheiro de software web, desenvolvendo com as stacks react e typescript. 
-- 🌱 Estou procurando cada vez mais me especializar para atuar no frontend. No momento estou me especializando em react.
+- 🔭 Sou entusiasta do desenvolvimento com mais de dois anos de experiência em JavaScript e
+React e Angular. Sou proficiente em metodologias ágeis como Scrum e Kanban e valorizo a
+colaboração em equipe, comunicação clara e contribuição significativa para projetos.
+- 🌱 Estou procurando cada vez mais me especializar para atuar em Fullstack. No momento estou me especializando em NodeJS.
 
 ## Linguagens e Framewors
 - 💀 HTML.
